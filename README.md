@@ -1,2 +1,2 @@
 # docker-get-started
-Following the Docker Get Started docs
+Following the Docker [Get Started](https://docs.docker.com/get-started) docs
